@@ -1,0 +1,8 @@
+{
+  "name": "Scam Detector System",
+  "description": "Scam Detector System & Enterprise Threat Intelligence platform featuring NLP machine learning, dialect heuristics, Explainable AI traces, and real-time security logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

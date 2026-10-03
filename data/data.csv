@@ -1,0 +1,49 @@
+message,label,category,channel
+Meeting tomorrow at 5pm,SAFE,None,Email
+Delivery completed successfully,SAFE,None,SMS
+Class starts at 9 AM,SAFE,None,App Notification
+Project approved by manager,SAFE,None,Email
+Payment received in account,SAFE,None,SMS
+Team lunch scheduled,SAFE,None,WhatsApp
+Document submitted on time,SAFE,None,Email
+Conference call at 2pm,SAFE,None,Email
+Report finalized and sent,SAFE,None,Email
+Birthday party this weekend,SAFE,None,WhatsApp
+Hello how are you,SAFE,None,WhatsApp
+Good morning everyone,SAFE,None,SMS
+Thanks for your help,SAFE,None,Email
+See you tomorrow,SAFE,None,WhatsApp
+Your order is ready,SAFE,None,SMS
+Congratulations on your well-deserved job promotion,SAFE,None,Email
+Congratulations on graduating college today so proud of you,SAFE,None,WhatsApp
+Congratulations team on successfully launching the new project,SAFE,None,Email
+Congratulations on the birth of your new baby,SAFE,None,SMS
+Congratulations on your work anniversary at the company,SAFE,None,App Notification
+Please call me when you are available,SAFE,None,Email
+Call me when you get a chance,SAFE,None,SMS
+Let me know when you are free to talk,SAFE,None,WhatsApp
+Please reach out to me when you have a moment,SAFE,None,Email
+Claim your reward now,SCAM,Reward Scam,SMS
+Earn money instantly,SCAM,Financial Fraud,Instagram
+Investment guaranteed 100% return,SCAM,Investment Scam,Facebook
+Click link now to verify,SCAM,Phishing,Email
+Verify account immediately,SCAM,Phishing,WhatsApp
+Update your password immediately,SCAM,Phishing,Email
+Confirm your bank details,SCAM,Identity Fraud,Email
+Free money waiting for you,SCAM,Financial Fraud,Facebook
+You won a prize,SCAM,Reward Scam,SMS
+Act now before offer expires,SCAM,Promotion Scam,Instagram
+Congratulations you are selected,SCAM,Job Scam,Email
+Click here to collect reward,SCAM,Reward Scam,Website Popup
+Verify identity to unlock account,SCAM,Phishing,WhatsApp
+Limited time offer expires soon,SCAM,Promotion Scam,Instagram
+You must respond immediately,SCAM,Phishing,Telegram
+Suspicious activity detected,SCAM,Phishing,Email
+Confirm payment information now,SCAM,Identity Fraud,SMS
+Your account will be closed,SCAM,Phishing,Email
+Unusual login detected,SCAM,Phishing,App Notification
+Inheritance waiting claim it,SCAM,Financial Fraud,Email
+Money transfer failed retry,SCAM,Financial Fraud,WhatsApp
+Your subscription will expire,SCAM,Promotion Scam,Email
+You are a lucky winner,SCAM,Reward Scam,Facebook
+Your package needs signature,SCAM,Phishing,SMS

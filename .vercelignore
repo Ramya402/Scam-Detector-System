@@ -6,3 +6,4 @@ data/
 *.db
 *.csv
 __pycache__/
+bun.lock

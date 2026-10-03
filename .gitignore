@@ -6,3 +6,9 @@ coverage/
 *.log
 .env*
 !.env.example
+bun.lock
+bun.lockb
+ml_backend/
+*.pkl
+*.db
+
